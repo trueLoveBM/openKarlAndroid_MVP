@@ -13,7 +13,7 @@
  2.在你项目的build.gradle文件内添加依赖
  
 	dependencies {
-	    implementation 'com.github.trueLoveBM:openKarlAndroid_MVP:Tag'
+	    implementation 'com.github.trueLoveBM:openKarlAndroid_MVP:1.00'
 	}
   
   
